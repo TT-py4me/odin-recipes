@@ -1,0 +1,41 @@
+h1 { /*for title of each recipe on recipe pages*/
+    text-align: center;
+    font-size:100px;
+}
+
+img{
+    height:auto;
+    width:500px;
+}
+h2{
+    background-color:#ffff00;
+    color:#ff0000;
+}
+
+.intro{
+    background-color:#008000;
+    color:#ffffff;
+}
+
+.ingredients{
+    color: #ffa500;
+    font-size:18px
+}
+.ingredients .water{
+    color:blue;
+}
+
+#cabbage{
+    font-weight:40px;
+    color: #008000;
+
+}
+#shredded-cabbage{
+    background-color:#000000;
+    color:#ffffff;
+}
+
+#soybeans{
+    background-color:#a52a0a;
+    color:#fdddff;
+}
